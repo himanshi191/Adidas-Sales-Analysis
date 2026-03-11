@@ -153,9 +153,4 @@ Himanshi Gupta
 
 Aspiring Data Analyst / Data Scientist passionate about transforming data into actionable insights.
 
-If you want, I can also help you:
 
-✔ Make this 10x stronger for recruiters
-✔ Add GitHub badges and visuals
-✔ Write resume bullet points for this project
-✔ Turn this into a portfolio-level project that impresses hiring managers.
